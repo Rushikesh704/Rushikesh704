@@ -1,6 +1,7 @@
 # Hey there! 👋
 
-I'm Rushikesh, currently pursuing a degree in Artificial Intelligence and Data Science. Welcome to my GitHub profile!
+I'm Rushikesh, 
+When I'm not dominating in CSGO matches, you'll likely find me nestled in my coding sanctuary, fueled by 2-3 shots of coffee a day. Peace and tranquility are my allies in this journey through the lines of code.
 
 ## About Me
 
